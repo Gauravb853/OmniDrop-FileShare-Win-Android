@@ -1,0 +1,15 @@
+# Dependencies
+node_modules/
+
+# Transfers & Staged Temp Files
+downloads/
+temp/
+.history.json
+
+# Environment & OS files
+.env
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log

@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#3b82f6" />
+      <stop offset="50%" stop-color="#6366f1" />
+      <stop offset="100%" stop-color="#8b5cf6" />
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="12" stdDeviation="16" flood-color="#3b82f6" flood-opacity="0.35" />
+    </filter>
+  </defs>
+  
+  <!-- App Background Circle -->
+  <rect width="512" height="512" rx="128" fill="#0b1120" />
+  
+  <!-- Outer Pulse Ring -->
+  <circle cx="256" cy="256" r="200" fill="none" stroke="#3b82f6" stroke-width="6" stroke-opacity="0.25" stroke-dasharray="16 12" />
+  <circle cx="256" cy="256" r="160" fill="none" stroke="#6366f1" stroke-width="4" stroke-opacity="0.4" />
+  
+  <!-- Central Glowing Sphere -->
+  <circle cx="256" cy="256" r="115" fill="url(#grad)" filter="url(#shadow)" />
+  
+  <!-- Bi-directional Transfer Arrows -->
+  <g fill="#ffffff">
+    <!-- Up Arrow (Send) -->
+    <path d="M216 280 L216 200 L186 230 L166 210 L216 160 L266 210 L246 230 L216 200 Z" opacity="0.95" />
+    <!-- Down Arrow (Receive) -->
+    <path d="M296 232 L296 312 L326 282 L346 302 L296 352 L246 302 L266 282 L296 312 Z" opacity="0.95" />
+  </g>
+</svg>

@@ -1,0 +1,22 @@
+{
+  "name": "omnidrop",
+  "version": "1.0.0",
+  "description": "Ultra-fast cross-platform file transfer between Android and Windows",
+  "main": "server/index.js",
+  "scripts": {
+    "start": "node server/index.js",
+    "test": "node test/transfer.test.js",
+    "dev": "node --watch server/index.js"
+  },
+  "keywords": [
+    "file-transfer",
+    "android",
+    "windows",
+    "wifi",
+    "bluetooth",
+    "streaming"
+  ],
+  "author": "Gaurav Bhardwaj",
+  "license": "MIT",
+  "dependencies": {}
+}
