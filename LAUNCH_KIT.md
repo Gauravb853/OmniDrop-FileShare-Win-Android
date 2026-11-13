@@ -50,6 +50,7 @@ Would love your thoughts, feedback, and questions!
 
 ### Post 1: r/selfhosted
 **Where**: [https://reddit.com/r/selfhosted](https://reddit.com/r/selfhosted)  
+**Flair to Select**: `Look what I made` *(or `Software`)*  
 **Title**:  
 `I built a zero-dependency, local-first AirDrop alternative for Android ⇋ Windows`
 
@@ -80,6 +81,7 @@ Feedback and PRs are very welcome!
 
 ### Post 2: r/Android
 **Where**: [https://reddit.com/r/Android](https://reddit.com/r/Android)  
+**Flair to Select**: `Dev` *(or `Discussion`)*  
 **Title**:  
 `OmniDrop: A fast, zero-install way to transfer large files between Android and Windows PC over Wi-Fi`
 
@@ -102,6 +104,7 @@ https://github.com/Gauravb853/OmniDrop-FileShare-Win-Android
 
 ### Post 3: r/windows
 **Where**: [https://reddit.com/r/windows](https://reddit.com/r/windows)  
+**Flair to Select**: `App / Software` *(or `Discussion`)*  
 **Title**:  
 `Built an open-source, local-first file transfer tool for Windows & Android with zero bloat`
 
