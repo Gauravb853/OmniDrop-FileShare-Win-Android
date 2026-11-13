@@ -1,14 +1,19 @@
+<p align="center">
+  <img src="public/assets/banner.svg" alt="OmniDrop - Fast Cross-Platform File Transfer" width="100%" />
+</p>
+
 # ⚡ OmniDrop
 
 > **High-speed, bi-directional, zero-friction file transfer suite between Android and Windows.**  
 > Transfer **any file size** (photos, 4K videos, APKs, 100+ GB disk images) over **Local Wi-Fi**, **Direct Mobile Hotspot**, or **Bluetooth** — with **zero third-party dependencies**.
 
+[![CI Test Suite](https://github.com/Gauravb853/OmniDrop-FileShare-Win-Android/actions/workflows/ci.yml/badge.svg)](https://github.com/Gauravb853/OmniDrop-FileShare-Win-Android/actions/workflows/ci.yml)
+[![Release: v1.0.0](https://img.shields.io/github/v/release/Gauravb853/OmniDrop-FileShare-Win-Android?color=blue)](https://github.com/Gauravb853/OmniDrop-FileShare-Win-Android/releases/latest)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Node.js](https://img.shields.io/badge/Node.js-%3E%3D18.0.0-brightgreen.svg)](https://nodejs.org/)
 [![Dependencies: Zero](https://img.shields.io/badge/Dependencies-Zero%20(Pure%20Node.js)-success.svg)](package.json)
 [![Platform: Windows & Android](https://img.shields.io/badge/Platform-Windows%20%7C%20Android-informational.svg)]()
 [![PWA Ready](https://img.shields.io/badge/PWA-Installable%20on%20Android-blueviolet.svg)]()
-[![Tests: Passing](https://img.shields.io/badge/Tests-12%20Passed%20%2F%200%20Failed-success.svg)]()
 
 ---
 
